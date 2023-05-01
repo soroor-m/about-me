@@ -1,0 +1,44 @@
+.bookshelf {
+  $breakpoint: 535px;
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+
+    // Apply styles for screens smaller than the breakpoint
+    @media (max-width: $breakpoint) {
+      flex-direction: column;
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+
+    th {
+      background-color: #f7f7f7;
+      border: 1px solid #04AA6D;
+      font-weight: bold;
+      padding: 10px;
+      text-align: left;
+    }
+
+    td {
+      border: 1px solid #04AA6D;
+      padding: 10px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+  }
+}

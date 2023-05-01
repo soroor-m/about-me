@@ -1,0 +1,30 @@
+.section {
+  background-color: #f7f7f7;
+  border: 1px solid #04AA6D;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 20px;
+
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  p, li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      &:before {
+        content: "\2022";
+        margin-right: 10px;
+      }
+    }
+  }
+}

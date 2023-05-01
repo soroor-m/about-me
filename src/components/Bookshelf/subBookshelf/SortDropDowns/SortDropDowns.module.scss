@@ -1,0 +1,33 @@
+.sortDropdowns {
+  $breakpoint: 535px;
+  display: flex;
+  flex-direction: row;
+
+  // Apply styles for screens smaller than the breakpoint
+  @media (max-width: $breakpoint) {
+    flex-direction: column;
+    align-items: center;
+
+    div {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  label {
+    font-weight: bold;
+    margin-right: 0.5rem;
+  }
+
+  select {
+    padding: 0.25rem 0.5rem;
+    margin-right: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    outline: none;
+
+    option {
+      font-size: 1rem;
+    }
+  }
+}

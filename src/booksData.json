@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë"
+    },
+    {
+      "id": 2,
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera"
+    },
+    {
+      "id": 3,
+      "title": "The Course of Love",
+      "author": "Alain de Botton"
+    },
+    {
+      "id": 4,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": 5,
+      "title": "A Man Called Ove",
+      "author": "Fredrik Backman"
+    },
+    {
+      "id": 6,
+      "title": "The Clown",
+      "author": "Heinrich Böll"
+    },
+    {
+      "id": 7,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë"
+    },
+    {
+      "id": 8,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert"
+    },
+    {
+      "id": 9,
+      "title": "Sentimental Education",
+      "author": "Gustave Flaubert"
+    },
+    {
+      "id": 10,
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami"
+    },
+    {
+      "id": 11,
+      "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+      "author": "Haruki Murakami"
+    },
+    {
+      "id": 12,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "id": 13,
+      "title": "War And Peace",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "id": 14,
+      "title": "Les Misérables",
+      "author": "Victor Hugo"
+    },
+    {
+      "id": 15,
+      "title": "Mrs.Dalloway",
+      "author": "Virginia Woolf"
+    },
+    {
+      "id": 16,
+      "title": "The Three Body Problem",
+      "author": "Liu Cixin"
+    },
+    {
+      "id": 17,
+      "title": "No Friend But The Mountains",
+      "author": "Behrouz Boochani"
+    },
+    {
+      "id": 18,
+      "title": "The Ickabog",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": 19,
+      "title": "If Only It Were True",
+      "author": "Marc Levy"
+    },
+    {
+      "id": 20,
+      "title": "A Distant Neighborhood",
+      "author": "Jirō Taniguchi"
+    },
+    {
+      "id": 21,
+      "title": "A Journal Of My Father",
+      "author": "Jirō Taniguchi"
+    },
+    {
+      "id": 22,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez"
+    },
+    {
+      "id": 23,
+      "title": "Animal Farm",
+      "author": "George Orwell"
+    },
+    {
+      "id": 24,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "id": 25,
+      "title": "The book Theif",
+      "author": "Markus Zusak"
+    }
+  ]
+}
